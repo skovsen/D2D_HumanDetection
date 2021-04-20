@@ -1,4 +1,4 @@
-module alexandra.dk/human_detection
+module github.com/skovsen/human_detection
 
 go 1.15
 
